@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+.env
+
+# ML / large files
+*.pkl
+*.h5
+*.pt
+data/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
